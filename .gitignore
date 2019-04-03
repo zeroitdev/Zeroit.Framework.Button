@@ -48,14 +48,14 @@ TestResult.xml
 
 # Build Results of JetBrains
 .idea/
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/workspace.xml
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/contentModel.xml
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/encodings.xml
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/indexLayout.xml
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/misc.xml
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/modules.xml
-.idea/.idea.Zeroit.Framework.BasicCharts/.idea/vsc.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/
+.idea/.idea.Zeroit.Framework.Button/.idea/workspace.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/contentModel.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/encodings.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/indexLayout.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/misc.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/modules.xml
+.idea/.idea.Zeroit.Framework.Button/.idea/vsc.xml
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
